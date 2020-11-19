@@ -12,8 +12,7 @@ footprints:
       - "**/*.kicad_mod"
       - "fp-lib-table"
   script:
-    - $CI_BUILDS_DIR/kicad-library-utils/pcb/gitlabci/check_all.sh $CI_PROJECT_DIR -v
-    - python $CI_BUILDS_DIR/kicad-library-utils/check_lib_table.py $CI_PROJECT_DIR/*.pretty --table $CI_PROJECT_DIR/fp-lib-table
+    - $CI_BUILDS_DIR/kicad-library-utils/klc-check/gitlabci/check_footprints.sh
   artifacts:
     reports:
       metrics: metrics.txt
