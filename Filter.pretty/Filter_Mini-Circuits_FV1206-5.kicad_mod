@@ -56,7 +56,7 @@
   (pad 4 thru_hole circle (at 0.56 -1.195) (size 0.63 0.63) (drill 0.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0.56 1.195) (size 0.63 0.63) (drill 0.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -0.56 1.195) (size 0.63 0.63) (drill 0.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-5.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

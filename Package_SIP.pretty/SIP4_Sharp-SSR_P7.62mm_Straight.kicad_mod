@@ -31,7 +31,7 @@
   (pad 2 thru_hole oval (at 5.08 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 12.7 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 15.24 0) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Straight.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

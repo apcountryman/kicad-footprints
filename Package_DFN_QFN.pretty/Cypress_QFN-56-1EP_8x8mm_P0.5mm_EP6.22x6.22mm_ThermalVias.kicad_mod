@@ -151,7 +151,7 @@
   (pad 57 thru_hole circle (at -1.27 2.54) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 57 thru_hole circle (at -2.54 2.54) (size 0.6 0.6) (drill 0.3) (layers *.Cu))
   (pad 57 smd rect (at 0 0) (size 6.1 6.1) (layers B.Cu))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

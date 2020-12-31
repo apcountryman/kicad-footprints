@@ -83,7 +83,7 @@
     (zone_connect 0))
   (pad "" smd rect (at 1 0 180) (size 0.3 0.4) (layers F.Paste)
     (zone_connect 0))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/CoaxialSwitch_Hirose_MS-156C3_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/CoaxialSwitch_Hirose_MS-156C3_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

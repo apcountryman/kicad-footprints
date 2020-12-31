@@ -42,7 +42,7 @@
   (pad 24 thru_hole oval (at 25.34 -7.5 180) (size 2 3) (drill 1.3) (layers *.Cu *.Mask))
   (pad 21 thru_hole oval (at 20.3 -7.5 180) (size 2 3) (drill 1.3) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 25.34 0 180) (size 2 3) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPST_Schrack-RT2-FormA_RM5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPST_Schrack-RT2-FormA_RM5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

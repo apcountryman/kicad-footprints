@@ -139,7 +139,7 @@
   (pad "" np_thru_hole circle (at 2.9 -19.37 90) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" smd rect (at 2.57 -23.34 90) (size 2.49 4.57) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 2.57 23.34 90) (size 2.49 4.57) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_Card.3dshapes/CF-Card_3M_N7E50-7516PK-20-WF.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/CF-Card_3M_N7E50-7516PK-20-WF.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -37,7 +37,7 @@
   (fp_arc (start 3.8 0) (end 0.8 4.25) (angle 109) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.6 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_10x8.5mm_P7.6mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

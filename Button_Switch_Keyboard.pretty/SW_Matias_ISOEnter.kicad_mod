@@ -30,7 +30,7 @@
   (fp_line (start -2.75 -6.35) (end 11.75 -6.35) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0.5 5) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Matias_ISOEnter.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Matias_ISOEnter.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

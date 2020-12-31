@@ -214,7 +214,7 @@
   (pad 146 thru_hole circle (at 0 -25.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 147 thru_hole circle (at 63.5 -27.94) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 148 thru_hole circle (at 63.5 -25.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

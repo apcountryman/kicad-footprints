@@ -554,7 +554,7 @@
       (gr_poly (pts
          (xy 0.76 -0.63) (xy 1.63 -0.63) (xy 1.63 0.63) (xy 0.76 0.63)) (width 0.2))
     ))
-  (model ${KISYS3DMOD}/Module.3dshapes/Carambola2.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Carambola2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -123,7 +123,7 @@
   (pad "" smd roundrect (at 2.9 -3.8) (size 0.6 0.76) (layers F.Paste)(roundrect_rratio 0.08400000000000001))
   (pad "" smd roundrect (at 0.05 3.8) (size 0.6 0.76) (layers F.Paste)(roundrect_rratio 0.08400000000000001))
   (pad "" smd roundrect (at 2.9 3.8) (size 0.6 0.76) (layers F.Paste)(roundrect_rratio 0.08400000000000001))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_RWH0032A.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RWH0032A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

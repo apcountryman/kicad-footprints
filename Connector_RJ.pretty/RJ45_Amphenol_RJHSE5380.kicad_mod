@@ -40,7 +40,7 @@
   (pad "" np_thru_hole circle (at 9.91 -2.54) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at 11.69 0.89) (size 2.3 2.3) (drill 1.57) (layers *.Cu *.Mask))
   (pad SH thru_hole circle (at -4.57 0.89) (size 2.3 2.3) (drill 1.57) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE5380.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE5380.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

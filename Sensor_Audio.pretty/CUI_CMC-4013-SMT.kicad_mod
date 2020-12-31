@@ -21,7 +21,7 @@
     (primitives
       (gr_circle (center 0 1.375) (end 1.375 1.375) (width 0.75))
     ))
-  (model ${KISYS3DMOD}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/CUI_CMC-4013-SMT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

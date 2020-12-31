@@ -32,7 +32,7 @@
   (pad "" smd roundrect (at 1.025 0.5 180) (size 0.55 0.35) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 1.025 -0.5 180) (size 0.55 0.35) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0 0) (size 0.5 1.4) (layers F.Paste) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Sensor_Humidity.3dshapes/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -54,7 +54,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad "" smd rect (at 0.02 0.565) (size 0.6 1) (layers F.Paste)
     (solder_paste_margin_ratio -0.2))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

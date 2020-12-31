@@ -95,7 +95,7 @@
       (gr_poly (pts
          (xy -0.15 0.175) (xy 0 0.325) (xy 0.15 0.325) (xy 0.15 0.175)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/ST_UFQFPN-20_3x3mm_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ST_UFQFPN-20_3x3mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

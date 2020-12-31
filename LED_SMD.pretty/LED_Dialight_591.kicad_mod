@@ -27,7 +27,7 @@
   )
   (pad "2" smd rect (at 1.6 0) (size 2.01 2.39) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "1" smd rect (at -1.6 0) (size 2.01 2.39) (layers "F.Cu" "F.Paste" "F.Mask"))
-  (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_Dialight_591.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

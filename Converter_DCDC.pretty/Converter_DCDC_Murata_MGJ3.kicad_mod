@@ -57,7 +57,7 @@
   (pad 9 smd rect (at 9.525 8.89) (size 3.38 2.16) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 9.525 6.35) (size 3.38 2.16) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 9.525 -8.89) (size 3.38 2.16) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ3.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

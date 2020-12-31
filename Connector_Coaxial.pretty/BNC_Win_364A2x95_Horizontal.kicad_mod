@@ -44,7 +44,7 @@
   (pad 3 thru_hole circle (at -2.54 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -2.54) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/BNC_Win_364A2x95_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Win_364A2x95_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

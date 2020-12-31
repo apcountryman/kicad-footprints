@@ -29,7 +29,7 @@
   (fp_line (start 6.2 -2.8) (end -6.2 -2.8) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -3.975 0) (size 3.85 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.975 0) (size 3.85 2.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

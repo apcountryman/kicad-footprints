@@ -37,7 +37,7 @@
   (fp_line (start -0.45 -0.93) (end -1.03 -0.35) (layer F.Fab) (width 0.1))
   (pad 2 thru_hole oval (at 0 2.54) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0) (size 2 1.6) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.156))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_LPT80A.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_LPT80A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

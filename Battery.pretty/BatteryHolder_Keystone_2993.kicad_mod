@@ -46,7 +46,7 @@
   (fp_line (start 8 1.4) (end -4.8 1.4) (layer F.Fab) (width 0.10))
   (fp_line (start -8 -4.6) (end -8 4.6) (layer F.Fab) (width 0.10))
   (pad 1 smd rect (at 0 0) (size 16 2.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

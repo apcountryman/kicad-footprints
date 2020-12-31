@@ -140,7 +140,7 @@
   (pad "" smd rect (at 1.66 1.66) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at 1.66 -1.66) (size 1.5 1.5) (layers F.Paste))
   (pad "" smd rect (at 1.66 0) (size 1.5 1.5) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N100_EP5.5x5.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N100_EP5.5x5.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

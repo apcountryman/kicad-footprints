@@ -28,7 +28,7 @@
   (fp_arc (start 11.315 0) (end 11.315 -4.67) (angle 180) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 12.34 0) (size 2.7 2.7) (drill 1.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_HC33-U_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC33-U_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

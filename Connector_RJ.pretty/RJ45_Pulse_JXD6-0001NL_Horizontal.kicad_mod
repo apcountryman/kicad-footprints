@@ -42,7 +42,7 @@
   (pad "" np_thru_hole circle (at 0.775 5.715) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0.775 -5.715) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad SH smd roundrect (at 5.275 -6.77) (size 4.6 3.26) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Pulse_JXD6-0001NL_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Pulse_JXD6-0001NL_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

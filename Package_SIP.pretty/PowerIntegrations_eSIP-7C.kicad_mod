@@ -47,7 +47,7 @@
   (pad 4 thru_hole oval (at 3.81 2.9972) (size 1.778 2.159) (drill 0.889) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 5.08 0) (size 1.778 2.159) (drill 0.889) (layers *.Cu *.Mask))
   (pad 7 thru_hole oval (at 7.62 2.9972) (size 1.778 2.159) (drill 0.889) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7C.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7C.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

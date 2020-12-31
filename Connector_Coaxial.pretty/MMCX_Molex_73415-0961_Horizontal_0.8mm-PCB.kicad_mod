@@ -46,7 +46,7 @@
       (gr_poly (pts
          (xy -6 0.15) (xy -6 0.7) (xy -1.5 0.7) (xy -1.5 0.15)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

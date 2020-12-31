@@ -47,7 +47,7 @@
   (pad 5 smd rect (at 4.9149 1.905) (size 1.35 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 4.9149 0.635) (size 1.35 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 4.9149 -0.635) (size 1.35 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor_Pressure.3dshapes/Freescale_98ARH99066A.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Freescale_98ARH99066A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

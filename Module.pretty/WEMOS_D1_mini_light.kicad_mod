@@ -76,27 +76,27 @@
   (pad 14 thru_hole oval (at 22.86 5.08) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 22.86 2.54) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 22.86 0) (size 2 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/WEMOS_D1_mini_light.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/WEMOS_D1_mini_light.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 0 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 22.86 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
     (offset (xyz 22.86 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

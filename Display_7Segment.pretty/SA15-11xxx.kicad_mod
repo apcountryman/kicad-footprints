@@ -36,7 +36,7 @@
   (pad 8 thru_hole circle (at 40.62 5.08 270) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 40.62 2.54 270) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 40.62 0 270) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/SA15-11xxx.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SA15-11xxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

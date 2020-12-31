@@ -21,7 +21,7 @@
   (fp_line (start -1.2 1.2) (end 3.2 1.2) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 2 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TestPoint.3dshapes/TestPoint_Bridge_Pitch2.0mm_Drill0.7mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch2.0mm_Drill0.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

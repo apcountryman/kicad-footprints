@@ -45,7 +45,7 @@
   (pad 7 thru_hole circle (at 0 6.096 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 2.54 7.112 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.54 -1.334 270) (size 2.36 2.36) (drill 2.36) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Plug_Metz_AJP92A8813.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Plug_Metz_AJP92A8813.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

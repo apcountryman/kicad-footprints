@@ -115,7 +115,7 @@
   (pad "" smd roundrect (at 8.1425 4.7619) (size 0.835 0.835) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 7.1575 4.7619) (size 0.835 0.835) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 7.1575 5.7525) (size 0.835 0.835) (layers F.Paste) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Module.3dshapes/Sipeed-M1.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Sipeed-M1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

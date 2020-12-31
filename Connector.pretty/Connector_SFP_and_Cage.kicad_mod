@@ -133,7 +133,7 @@
   (pad CAGE thru_hole circle (at -14.3 -7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
   (pad CAGE thru_hole circle (at -14.3 7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
   (pad CAGE thru_hole circle (at -9.6 7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/Connector_SFP_and_Cage.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Connector_SFP_and_Cage.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

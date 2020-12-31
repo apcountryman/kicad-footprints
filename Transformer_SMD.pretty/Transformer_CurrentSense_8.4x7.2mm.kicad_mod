@@ -35,7 +35,7 @@
   (pad 6 smd rect (at 3.555 -1.85) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0 2.615) (size 3.05 2.6) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 0 -2.615) (size 3.05 2.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_CurrentSense_8.4x7.2mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_CurrentSense_8.4x7.2mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

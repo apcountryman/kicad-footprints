@@ -127,7 +127,7 @@
   (pad 30 smd circle (at -0.25 -3.645) (size 0.28 0.28) (layers F.Cu F.Paste F.Mask))
   (pad 31 smd circle (at -1.25 -3.645) (size 0.28 0.28) (layers F.Cu F.Paste F.Mask))
   (pad 32 smd circle (at -1.75 -3.645) (size 0.28 0.28) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

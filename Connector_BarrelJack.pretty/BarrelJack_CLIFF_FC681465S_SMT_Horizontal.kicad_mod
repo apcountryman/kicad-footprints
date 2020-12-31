@@ -42,7 +42,7 @@
   (pad 1 smd rect (at 3 -5.5 90) (size 3 2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3 5.5 90) (size 3 2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3 5.5 90) (size 3 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_BarrelJack.3dshapes/BarrelJack_CLIFF_FC681465S_SMT_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CLIFF_FC681465S_SMT_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -42,7 +42,7 @@
   (fp_text user %R (at 4.445 6.37) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJMG1BD3B8K1ANR.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJMG1BD3B8K1ANR.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

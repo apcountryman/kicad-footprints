@@ -651,7 +651,7 @@
   (pad AE23 smd circle (at 8 9.6) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad AE24 smd circle (at 8.8 9.6) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad AE25 smd circle (at 9.6 9.6) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

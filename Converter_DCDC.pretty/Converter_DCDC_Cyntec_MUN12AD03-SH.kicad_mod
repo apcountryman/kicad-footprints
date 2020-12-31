@@ -58,7 +58,7 @@
   (pad "" smd rect (at -0.3 -1.375) (size 0.45 0.55) (layers F.Paste))
   (pad "" smd rect (at 0.3 1.375) (size 0.45 0.55) (layers F.Paste))
   (pad "" smd rect (at -0.3 1.375) (size 0.45 0.55) (layers F.Paste))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

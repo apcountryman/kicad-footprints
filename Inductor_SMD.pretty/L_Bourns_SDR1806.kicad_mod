@@ -37,7 +37,7 @@
   (fp_line (start 9.6 -2.7) (end 2 -7.4) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -7.85 0) (size 3 2.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 7.85 0 180) (size 3 2.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

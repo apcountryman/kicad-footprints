@@ -29,7 +29,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.44 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 4.88 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U-3Pin_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -91,7 +91,7 @@
   (pad 14 thru_hole oval (at 35.56 0 90) (size 1.6 1.6) (drill 1.0) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 35.56 48.26 90) (size 1.6 1.6) (drill 1.0) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 33.02 48.26 90) (size 1.6 1.6) (drill 1.0) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/Arduino_UNO_R2.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

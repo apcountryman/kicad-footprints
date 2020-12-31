@@ -170,7 +170,7 @@
   (pad K12 smd circle (at 5.5 3.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad L12 smd circle (at 5.5 4.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad M12 smd circle (at 5.5 5.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

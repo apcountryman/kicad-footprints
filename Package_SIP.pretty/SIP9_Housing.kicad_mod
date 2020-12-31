@@ -39,7 +39,7 @@
   (pad 7 thru_hole circle (at 15.24 0 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 17.78 0 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 20.32 0 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SIP.3dshapes/SIP9_Housing.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

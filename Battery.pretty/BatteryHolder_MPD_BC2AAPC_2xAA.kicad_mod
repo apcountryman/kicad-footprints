@@ -59,7 +59,7 @@
   (fp_text user - (at -4.34 13.59) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_MPD_BC2AAPC_2xAA.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC2AAPC_2xAA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

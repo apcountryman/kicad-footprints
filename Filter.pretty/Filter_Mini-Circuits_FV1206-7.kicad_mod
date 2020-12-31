@@ -45,7 +45,7 @@
   (pad 2 smd roundrect (at 0 0) (size 1.3 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.19))
   (pad 2 thru_hole circle (at -0.325 0) (size 0.65 0.65) (drill 0.35) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0.325 0) (size 0.65 0.65) (drill 0.35) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-7.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-7.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

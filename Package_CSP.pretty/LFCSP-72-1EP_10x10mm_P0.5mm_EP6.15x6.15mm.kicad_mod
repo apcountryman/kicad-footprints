@@ -104,7 +104,7 @@
   (pad "" smd rect (at -1.4 -1.4) (size 2.5 2.5) (layers F.Paste))
   (pad "" smd rect (at 1.4 -1.4) (size 2.5 2.5) (layers F.Paste))
   (pad "" smd rect (at -1.4 1.4) (size 2.5 2.5) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_CSP.3dshapes/LFCSP-72-1EP_10x10mm_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-72-1EP_10x10mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

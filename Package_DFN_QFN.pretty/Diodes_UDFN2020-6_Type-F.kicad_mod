@@ -30,7 +30,7 @@
   (pad 6 smd rect (at 0.9375 -0.65) (size 0.425 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0 -0.325) (size 1.15 0.95) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 0 0.7) (size 0.8 0.48) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Diodes_UDFN2020-6_Type-F.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_UDFN2020-6_Type-F.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

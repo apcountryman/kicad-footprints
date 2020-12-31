@@ -55,7 +55,7 @@
   (fp_line (start 17.15 -0.65) (end 17.15 3.15) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 23.8 0) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_Fischer_FK2242201_25x8.3mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_FK2242201_25x8.3mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
   (pad 2 thru_hole circle (at 0 2.54) (size 1.75 1.75) (drill 0.76) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.75 1.75) (drill 0.76) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 7.62) (size 1.75 1.75) (drill 0.76) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/LEM_HX20-P-SP2.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX20-P-SP2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

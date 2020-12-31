@@ -30,7 +30,7 @@
   (pad 3 smd roundrect (at -3.07 1.6) (size 2.06 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 2 smd roundrect (at -3.07 -0.6) (size 2.06 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 1 smd roundrect (at -3.07 -3.8) (size 2.06 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

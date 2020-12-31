@@ -49,7 +49,7 @@
   (fp_text user %R (at 4.5 4.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

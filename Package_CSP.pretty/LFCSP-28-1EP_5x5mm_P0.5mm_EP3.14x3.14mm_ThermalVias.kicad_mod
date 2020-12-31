@@ -70,7 +70,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_CSP.3dshapes/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -158,7 +158,7 @@
   (pad "" smd rect (at -0.0265 1.67) (size 0.21 0.34) (layers F.Paste))
   (pad "" smd rect (at -0.0265 -2.37) (size 0.21 0.34) (layers F.Paste))
   (pad "" smd rect (at -0.0265 -1.67) (size 0.21 0.34) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -46,7 +46,7 @@
   (pad 3 smd rect (at -1.175 0.25) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.175 -0.25) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.175 -0.75) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Humidity.3dshapes/Sensirion_DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.7mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

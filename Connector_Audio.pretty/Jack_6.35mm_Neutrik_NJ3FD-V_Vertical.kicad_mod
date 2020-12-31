@@ -40,7 +40,7 @@
   (pad "" np_thru_hole circle (at -3.18 12.07 180) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 3.81 1.91 180) (size 2.1 2.1) (drill 2.1) (layers *.Cu *.Mask))
   (pad R thru_hole circle (at 5.08 5.72 180) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NJ3FD-V_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NJ3FD-V_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

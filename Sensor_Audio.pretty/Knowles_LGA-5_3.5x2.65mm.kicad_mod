@@ -42,7 +42,7 @@
     (primitives
       (gr_circle (center 0 -0.6625) (end 0.6625 -0.6625) (width 0.3))
     ))
-  (model ${KISYS3DMOD}/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (pad 4 thru_hole circle (at 17.78 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 7.62 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at -2.54 45.72) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

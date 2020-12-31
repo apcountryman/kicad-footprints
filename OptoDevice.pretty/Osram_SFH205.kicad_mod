@@ -20,7 +20,7 @@
   (fp_arc (start 1.27 0) (end -0.85 1.65) (angle 255.6567619) (layer F.SilkS) (width 0.12))
   (pad 2 thru_hole circle (at 2.56 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.178))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_SFH205.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH205.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

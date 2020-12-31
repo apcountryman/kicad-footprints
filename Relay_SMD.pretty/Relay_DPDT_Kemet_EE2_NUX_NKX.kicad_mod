@@ -44,7 +44,7 @@
   (pad 9 smd roundrect (at 3.51 1.27 270) (size 1.11 2.73) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
   (pad 10 smd roundrect (at 3.51 -1.27 270) (size 1.11 2.73) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
   (pad 12 smd roundrect (at 3.51 -6.35 270) (size 1.11 2.73) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.225))
-  (model ${KISYS3DMOD}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NUX_NKX.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Kemet_EE2_NUX_NKX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

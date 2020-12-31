@@ -38,7 +38,7 @@
     (zone_connect 2))
   (pad 4 smd rect (at 3.25 -5.1) (size 3.4 2.3) (layers F.Cu F.Paste F.Mask)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Murata_BNX025.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

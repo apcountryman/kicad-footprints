@@ -35,7 +35,7 @@
   (pad C1 smd circle (at -0.5 0.5) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad B1 smd circle (at -0.5 0) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -0.5 -0.5) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-9_1.6x1.6mm_Layout3x3_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-9_1.6x1.6mm_Layout3x3_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

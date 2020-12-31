@@ -144,7 +144,7 @@
   (pad "" smd rect (at -2.1863 -2.1863 45) (size 0.479 0.479) (layers F.Paste))
   (pad 49 smd rect (at 0.184 -2.391) (size 4.782 0.368) (layers F.Cu F.Mask))
   (pad 49 smd rect (at -2.207 -2.207 45) (size 0.52 0.52) (layers F.Cu F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

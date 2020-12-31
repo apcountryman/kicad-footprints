@@ -36,7 +36,7 @@
   (pad 6 smd rect (at -8.075 5.08) (size 2.45 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -8.075 -5.08) (size 2.45 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -8.075 -7.62) (size 2.45 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ISU02-Series_SMD.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ISU02-Series_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

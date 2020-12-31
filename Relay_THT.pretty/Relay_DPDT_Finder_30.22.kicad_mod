@@ -41,7 +41,7 @@
   (pad 11 thru_hole circle (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 17.78 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_DPDT_Finder_30.22.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Finder_30.22.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -65,7 +65,7 @@
     (solder_paste_margin -0.02))
   (pad "" smd rect (at -0.335 0.835) (size 1.5 0.8) (layers F.Paste))
   (pad "" smd rect (at -0.335 -0.105) (size 1.5 0.8) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

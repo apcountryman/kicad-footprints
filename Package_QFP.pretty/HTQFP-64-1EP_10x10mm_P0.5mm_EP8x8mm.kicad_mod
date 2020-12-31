@@ -98,7 +98,7 @@
   (pad "" smd rect (at 2 -2 180) (size 3.2 3.2) (layers F.Paste))
   (pad "" smd rect (at 2 2 180) (size 3.2 3.2) (layers F.Paste))
   (pad "" smd rect (at -2 2 180) (size 3.2 3.2) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm_EP8x8mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm_EP8x8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

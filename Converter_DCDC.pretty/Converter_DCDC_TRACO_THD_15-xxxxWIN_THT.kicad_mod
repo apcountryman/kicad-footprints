@@ -33,7 +33,7 @@
   (pad 9 thru_hole oval (at 0 20.32) (size 2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 15.24 25.4) (size 2 1.2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 0 25.4) (size 2 1.2) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THD_15-xxxxWIN_THT.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THD_15-xxxxWIN_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

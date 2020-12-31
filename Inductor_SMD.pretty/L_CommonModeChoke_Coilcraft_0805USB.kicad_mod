@@ -26,7 +26,7 @@
   (pad 2 smd roundrect (at -0.435 0.835) (size 0.51 0.76) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05))
   (pad 3 smd roundrect (at 0.435 0.835) (size 0.51 0.76) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05))
   (pad 4 smd roundrect (at 0.435 -0.835) (size 0.51 0.76) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_0805USB.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_0805USB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

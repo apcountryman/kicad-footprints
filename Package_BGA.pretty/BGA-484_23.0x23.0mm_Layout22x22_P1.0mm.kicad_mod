@@ -511,7 +511,7 @@
   (pad W22 smd circle (at 10.5 7.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad Y21 smd circle (at 9.5 8.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad Y22 smd circle (at 10.5 8.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-484_23.0x23.0mm_Layout22x22_P1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

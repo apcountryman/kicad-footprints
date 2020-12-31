@@ -200,7 +200,7 @@
   (pad 130 smd rect (at -8.89 -13.4) (size 0.38 1.635) (layers F.Cu F.Paste F.Mask))
   (pad 131 smd rect (at -9.525 -13.4) (size 0.38 1.635) (layers F.Cu F.Paste F.Mask))
   (pad 132 smd rect (at -10.16 -13.4) (size 0.38 1.635) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/PQFP-132_24x24mm_P0.635mm_i386.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-132_24x24mm_P0.635mm_i386.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

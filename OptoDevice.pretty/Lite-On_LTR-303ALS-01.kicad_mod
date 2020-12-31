@@ -28,7 +28,7 @@
   (pad 4 smd roundrect (at 0.9 0.65) (size 0.65 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 5 smd roundrect (at 0.9 0) (size 0.65 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 6 smd roundrect (at 0.9 -0.65) (size 0.65 0.3) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

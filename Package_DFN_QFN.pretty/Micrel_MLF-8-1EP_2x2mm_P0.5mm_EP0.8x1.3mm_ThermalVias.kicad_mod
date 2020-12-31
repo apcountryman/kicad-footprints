@@ -40,7 +40,7 @@
   (pad "" smd rect (at 0 -0.35) (size 0.55 0.55) (layers F.Paste))
   (pad "" smd rect (at 0 0.35) (size 0.55 0.55) (layers F.Paste))
   (pad 9 smd rect (at 0 0) (size 0.8 1.3) (layers B.Cu))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

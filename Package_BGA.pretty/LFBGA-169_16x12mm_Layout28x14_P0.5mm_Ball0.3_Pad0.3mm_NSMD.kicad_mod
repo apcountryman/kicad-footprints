@@ -199,7 +199,7 @@
   (pad Y14 smd circle (at 2.75 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad AA14 smd circle (at 3.25 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad AE14 smd circle (at 5.25 -3.25 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

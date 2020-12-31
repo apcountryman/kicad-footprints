@@ -33,7 +33,7 @@
   (pad 2 thru_hole circle (at 20 0 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 5 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0 270) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -36,7 +36,7 @@
   (fp_line (start 4.75 1.05) (end -1.25 1.05) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/R_LDR_5.2x5.2mm_P3.5mm_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.2x5.2mm_P3.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

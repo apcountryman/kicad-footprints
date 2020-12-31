@@ -66,7 +66,7 @@
   (pad G thru_hole circle (at 11.43 -1.27) (size 3.2 3.2) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 12.065 1.27) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 12.065 12.7) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

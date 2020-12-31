@@ -74,7 +74,7 @@
   (pad 42 smd rect (at 4.125 -0.975) (size 0.73 0.49) (layers F.Cu F.Paste F.Mask))
   (pad 41 smd rect (at -4.125 -0.975) (size 0.73 0.49) (layers F.Cu F.Paste F.Mask))
   (pad 41 smd rect (at -4.125 0.975) (size 0.73 0.49) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_Hirose.3dshapes/Hirose_BM24_BM24-40DP-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_BM24_BM24-40DP-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

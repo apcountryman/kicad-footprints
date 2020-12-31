@@ -109,7 +109,7 @@
   (pad 48 thru_hole circle (at 33.02 5.08 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 49 thru_hole circle (at 33.02 2.54 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 50 thru_hole circle (at 33.02 0 270) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display_7Segment.3dshapes/DE122-XX-XX.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE122-XX-XX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

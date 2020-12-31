@@ -104,7 +104,7 @@
   (pad G thru_hole circle (at 4.445 10.795) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -0.635 3.175) (size 2.9 2.9) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5FAV-DA_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC5FAV-DA_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

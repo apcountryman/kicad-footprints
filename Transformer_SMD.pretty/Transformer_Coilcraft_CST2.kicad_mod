@@ -35,7 +35,7 @@
   (pad 2 smd rect (at -3.6 0) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3.6 1.85) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.6 -1.85) (size 1.6 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Coilcraft_CST.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -178,7 +178,7 @@
   (pad 14 thru_hole circle (at 45 -31) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 45 -20.33) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 45 -25.66) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_CHK_UI39-10VA_Flat.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_UI39-10VA_Flat.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

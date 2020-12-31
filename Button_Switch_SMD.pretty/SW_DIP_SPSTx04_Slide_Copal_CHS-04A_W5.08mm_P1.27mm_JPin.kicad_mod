@@ -74,7 +74,7 @@
   (fp_text user on (at 0.83 -2.665) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.12)))
   )
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Copal_CHS-04A_W5.08mm_P1.27mm_JPin.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Copal_CHS-04A_W5.08mm_P1.27mm_JPin.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

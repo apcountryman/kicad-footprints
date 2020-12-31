@@ -108,7 +108,7 @@
          (xy 0.13 0.13) (xy 0.13 -0.16) (xy 0.04 -0.16) (xy -0.16 0.03) (xy -0.16 0.13)
 ) (width 0))
     ))
-  (model "${KISYS3DMOD}/RF.3dshapes/Skyworks_SKY13575_639LF.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY13575_639LF.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

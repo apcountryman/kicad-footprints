@@ -705,7 +705,7 @@
   (pad AC26 smd circle (at 12.5 9.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AD26 smd circle (at 12.5 10.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AE26 smd circle (at 12.5 11.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-672_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-672_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

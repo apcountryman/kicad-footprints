@@ -53,7 +53,7 @@
   (pad 4 thru_hole circle (at 17.78 30.48 90) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 30.48 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 17.78 25.4 90) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Converter_ACDC.3dshapes/Converter_ACDC_RECOM_RAC04-xxSGx_THT.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_RECOM_RAC04-xxSGx_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

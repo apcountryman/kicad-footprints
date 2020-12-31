@@ -118,7 +118,7 @@
   (pad "" smd oval (at 6.05 -11.95) (size 0.675 2.8) (layers F.Paste))
   (pad "" smd oval (at -1.35 11.95) (size 0.675 2.8) (layers F.Paste))
   (pad "" smd oval (at -0.05 11.95) (size 0.675 2.8) (layers F.Paste))
-  (model ${KISYS3DMOD}/RF_GSM.3dshapes/Quectel_M95.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_M95.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

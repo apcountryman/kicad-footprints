@@ -58,7 +58,7 @@
          (xy 0.125 -1.7) (xy 0.375 -1.7) (xy 0.375 1.7) (xy 0.125 1.7) (xy 0.125 1.1)
          (xy -0.125 1.1) (xy -0.125 1.7) (xy -0.375 1.7)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/Texas_DRC0010J.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DRC0010J.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

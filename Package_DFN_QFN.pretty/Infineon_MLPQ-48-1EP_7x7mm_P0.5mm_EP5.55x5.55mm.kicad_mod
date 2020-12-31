@@ -154,7 +154,7 @@
          (xy -2.407 -2.775) (xy 2.775 -2.775) (xy 2.775 2.775) (xy -2.775 2.775) (xy -2.775 -2.407)
 ) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

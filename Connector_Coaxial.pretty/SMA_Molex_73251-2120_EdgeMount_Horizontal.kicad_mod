@@ -55,7 +55,7 @@
   (pad 2 smd rect (at -2.54 3.4925) (size 0.89 0.46) (layers F.Cu))
   (pad 2 thru_hole circle (at -2.985 3.4925) (size 0.97 0.97) (drill 0.46) (layers *.Cu))
   (pad 2 smd rect (at -2.54 3.4925) (size 0.89 0.46) (layers B.Cu))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2120_EdgeMount_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Molex_73251-2120_EdgeMount_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

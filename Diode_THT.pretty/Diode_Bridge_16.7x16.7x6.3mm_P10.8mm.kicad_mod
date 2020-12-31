@@ -29,7 +29,7 @@
   (pad 4 thru_hole circle (at 10.8 0 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0.1 10.8 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Diode_THT.3dshapes/Diode_Bridge_16.7x16.7x6.3mm_P10.8mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_16.7x16.7x6.3mm_P10.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -377,7 +377,7 @@
     (solder_mask_margin -0.05) (solder_paste_margin_ratio -0.08))
   (pad 41 smd roundrect (at 0.335 5.11) (size 1.85 2.02) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.05400000000000001)
     (solder_mask_margin -0.05) (solder_paste_margin_ratio -0.08))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

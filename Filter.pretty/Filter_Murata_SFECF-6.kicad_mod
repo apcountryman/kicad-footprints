@@ -27,7 +27,7 @@
   (pad 4 smd roundrect (at 1.225 1.4) (size 1.05 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.0625))
   (pad 6 smd roundrect (at 1.225 -1.4) (size 1.05 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.0625))
   (pad 5 smd roundrect (at 1.225 0) (size 1.05 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.0625))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

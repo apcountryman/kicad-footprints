@@ -28,7 +28,7 @@
   (pad 2 smd rect (at 1.5 -0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.5 0.75) (size 1.5 1.1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.wrl
+  (model ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

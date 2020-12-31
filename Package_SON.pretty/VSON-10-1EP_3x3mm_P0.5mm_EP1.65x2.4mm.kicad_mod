@@ -50,7 +50,7 @@
   (pad "" smd rect (at 0.4125 0) (size 0.64 0.64) (layers F.Paste))
   (pad "" smd rect (at -0.4125 -0.8) (size 0.64 0.64) (layers F.Paste))
   (pad "" smd rect (at 0.4125 -0.8) (size 0.64 0.64) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -101,7 +101,7 @@
   (pad MP smd rect (at 13.95 1.05) (size 1.6 2.4) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -14.35 1.45) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 14.35 1.45) (size 2.4 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_FFC-FPC.3dshapes/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_54132-5033_1x50-1MP_P0.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

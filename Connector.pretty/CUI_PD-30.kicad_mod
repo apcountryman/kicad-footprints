@@ -44,7 +44,7 @@
   (pad 4 thru_hole circle (at 2.5 9.15 180) (size 3.2 3.2) (drill 2.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 7.15 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5 7.15 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/CUI_PD-30.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CUI_PD-30.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

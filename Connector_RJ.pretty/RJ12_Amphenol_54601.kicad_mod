@@ -39,7 +39,7 @@
   (pad 2 thru_hole circle (at 1.27 2.54) (size 1.52 1.52) (drill 0.76) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -1.91 8.89) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.52 1.52) (drill 0.76) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

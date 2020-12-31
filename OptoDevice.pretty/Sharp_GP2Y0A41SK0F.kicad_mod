@@ -98,7 +98,7 @@
   )
   (pad 1 thru_hole circle (at -18.5 0) (size 6.1 6.1) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 18.5 0) (size 6.1 6.1) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

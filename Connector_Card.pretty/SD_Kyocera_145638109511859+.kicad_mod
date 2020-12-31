@@ -79,7 +79,7 @@
   (pad "" np_thru_hole circle (at -12.1 12 180) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 12 smd roundrect (at 13.25 9.9) (size 1.7 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.147))
   (pad 13 smd roundrect (at -14.1 8.7) (size 1.8 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.139))
-  (model ${KISYS3DMOD}/Connector_Card.3dshapes/SD_Kyocera_145638109511859+.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_Kyocera_145638109511859+.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

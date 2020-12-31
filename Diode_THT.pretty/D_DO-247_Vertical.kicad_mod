@@ -29,7 +29,7 @@
   (fp_poly (pts (xy 2.3 2.8) (xy 1.75 2.8) (xy 1.75 -2.45) (xy 2.3 -2.45)) (layer F.SilkS) (width 0.1))
   (pad 1 thru_hole rect (at 0 0) (size 2.5 4.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 10.9 0) (size 2.5 4.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-247_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

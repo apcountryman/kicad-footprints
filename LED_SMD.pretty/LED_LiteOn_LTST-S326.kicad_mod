@@ -31,7 +31,7 @@
   (pad 3 smd rect (at 0 1.375 180) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0 -1.375 180) (size 1.5 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.65 0 180) (size 0.9 0.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl
+  (model ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

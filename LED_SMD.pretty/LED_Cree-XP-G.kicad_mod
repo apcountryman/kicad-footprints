@@ -29,7 +29,7 @@
   (pad "" smd rect (at 0 0) (size 1.01 0.75) (layers F.Paste))
   (pad "" smd rect (at 0 1) (size 1.01 0.75) (layers F.Paste))
   (pad "" smd rect (at 0 -1) (size 1.01 0.75) (layers F.Paste))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-XP-G.wrl
+  (model ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XP-G.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

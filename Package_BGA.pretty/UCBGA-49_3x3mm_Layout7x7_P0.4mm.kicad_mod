@@ -75,7 +75,7 @@
   (fp_text user %R (at 0 0) (layer F.Fab)
     (effects (font (size 0.7 0.7) (thickness 0.105)))
   )
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

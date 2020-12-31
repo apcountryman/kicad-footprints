@@ -116,7 +116,7 @@
   (fp_text user "Board edge" (at 39.37 -7.3) (layer Cmts.User)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (model ${KISYS3DMOD}/Connector_DIN.3dshapes/DIN41612_C_3x16_Male_Horizontal_THT.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C_3x16_Male_Horizontal_THT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

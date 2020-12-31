@@ -217,7 +217,7 @@
   (pad "" smd rect (at 5.25 3.05 180) (size 1.05 1.05) (layers F.Paste))
   (pad "" smd rect (at 5.25 -3.05 180) (size 1.05 1.05) (layers F.Paste))
   (pad "" smd rect (at 5.25 -6.65 180) (size 1.05 1.05) (layers F.Paste))
-  (model ${KISYS3DMOD}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

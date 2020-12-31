@@ -35,7 +35,7 @@
   )
   (pad 1 smd rect (at -4.75 0 90) (size 5.6 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.75 0 90) (size 5.6 3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Pulse_PA4320.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Pulse_PA4320.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

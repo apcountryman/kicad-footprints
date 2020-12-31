@@ -30,7 +30,7 @@
   (pad 6 smd rect (at 0.42 0.2) (size 0.66 0.22) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.42 0.6) (size 0.66 0.22) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 0.42 -0.2) (size 0.66 0.22) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -45,7 +45,7 @@
   (pad 2+N thru_hole circle (at -5.08 10.795) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2- thru_hole circle (at 5.715 5.715) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2-N thru_hole circle (at 5.08 10.795) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-V-S_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-V-S_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

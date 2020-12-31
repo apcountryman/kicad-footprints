@@ -349,7 +349,7 @@
   (pad T18 smd circle (at 8.5 6.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad U18 smd circle (at 8.5 7.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad V18 smd circle (at 8.5 8.5) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

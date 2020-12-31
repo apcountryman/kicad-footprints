@@ -35,7 +35,7 @@
   (fp_arc (start -37 48) (end -41.25 48) (angle -90) (layer F.CrtYd) (width 0.05))
   (fp_arc (start 37 -26) (end 41.25 -26) (angle -90) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole roundrect (at 0 0) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Abracon_APAES868R8060C16-T.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

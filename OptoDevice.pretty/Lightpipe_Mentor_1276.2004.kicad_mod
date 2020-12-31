@@ -73,7 +73,7 @@
   (fp_line (start -8.45 -2.4) (end -7.7 -2.4) (layer F.SilkS) (width 0.12))
   (pad "" np_thru_hole circle (at 0 4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 -4.15) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.2004.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

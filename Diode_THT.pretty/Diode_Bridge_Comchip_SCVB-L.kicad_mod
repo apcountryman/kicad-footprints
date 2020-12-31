@@ -52,7 +52,7 @@
   (pad 3 thru_hole roundrect (at 7 13.6 90) (size 10 5) (drill oval 6.7 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 4 thru_hole roundrect (at 16 13.6 90) (size 10 5) (drill oval 6.7 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 5 thru_hole roundrect (at 14 27.2) (size 10 5) (drill oval 6.7 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Diode_THT.3dshapes/Diode_Bridge_Comchip_SCVB-L.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Comchip_SCVB-L.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

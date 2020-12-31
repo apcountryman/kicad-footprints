@@ -75,7 +75,7 @@
   (fp_text user %R (at 8.89 -21.92) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

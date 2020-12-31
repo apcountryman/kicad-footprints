@@ -38,7 +38,7 @@
   (pad 8 smd rect (at 4.78 0) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 4.78 -2.54) (size 3 1) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 4.78 -5.08) (size 3 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6H-2F.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6H-2F.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

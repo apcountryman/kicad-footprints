@@ -39,7 +39,7 @@
          (xy 1.3725 1.195) (xy 1.3725 0.7875) (xy 0.8625 0.7875) (xy 0.8625 0.5325) (xy 1.3725 0.5325)
          (xy 1.3725 0.1275)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Single.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Single.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

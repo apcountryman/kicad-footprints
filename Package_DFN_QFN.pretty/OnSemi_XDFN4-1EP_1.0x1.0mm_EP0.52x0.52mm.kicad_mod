@@ -53,7 +53,7 @@
       (gr_poly (pts
          (xy 0.13 -0.115) (xy -0.13 -0.115) (xy -0.13 -0.275) (xy -0.02 -0.275)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

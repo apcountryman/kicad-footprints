@@ -52,7 +52,7 @@
   (pad SH smd rect (at -2.2 8.79 180) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
   (pad SH smd rect (at 1.22 -4.31 180) (size 0.3 0.6) (layers F.Cu F.Paste F.Mask))
   (pad SH smd rect (at -1.22 -4.31 180) (size 0.3 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

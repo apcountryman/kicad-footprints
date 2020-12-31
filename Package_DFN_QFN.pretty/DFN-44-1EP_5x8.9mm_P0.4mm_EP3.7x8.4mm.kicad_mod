@@ -85,7 +85,7 @@
   (pad "" smd rect (at 1.2 3.5) (size 0.98 1.15) (layers F.Paste))
   (pad "" smd rect (at 0 3.5) (size 0.98 1.15) (layers F.Paste))
   (pad "" smd rect (at -1.2 3.5) (size 0.98 1.15) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -121,7 +121,7 @@
   (pad 61 smd rect (at 10 -12.7) (size 1.5 0.86) (layers F.Cu F.Paste F.Mask))
   (pad 62 smd rect (at 10 -13.97) (size 1.5 0.86) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd rect (at 10 -15.24) (size 1.5 0.86) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/Onion_Omega2S.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

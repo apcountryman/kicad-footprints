@@ -112,7 +112,7 @@
   (fp_arc (start -12.7 0) (end -15 0.9) (angle -316.8) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole circle (at 12.7 0) (size 6 6) (drill 2.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -12.7 0 180) (size 6 6) (drill 2.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

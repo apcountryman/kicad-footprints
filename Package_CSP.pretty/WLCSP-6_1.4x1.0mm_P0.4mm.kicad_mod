@@ -37,7 +37,7 @@
     (solder_mask_margin 0.1))
   (pad C1 smd circle (at 0.4 -0.2 90) (size 0.25 0.25) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1))
-  (model ${KISYS3DMOD}/Package_CSP.3dshapes/WLCSP-6_1.4x1.0mm_P0.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-6_1.4x1.0mm_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

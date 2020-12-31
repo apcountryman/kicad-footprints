@@ -71,7 +71,7 @@
   (pad 38 thru_hole circle (at 43.18 5.08 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 43.18 2.54 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 43.18 0 270) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display.3dshapes/EA_DOGM128-6.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGM128-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -38,7 +38,7 @@
   (pad C2 smd circle (at -0.25 0.5 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad C3 smd circle (at 0.25 0.5 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad C4 smd circle (at 0.75 0.5 90) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Maxim_WLP-12.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

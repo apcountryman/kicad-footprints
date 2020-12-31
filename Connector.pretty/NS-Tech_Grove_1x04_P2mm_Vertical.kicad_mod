@@ -34,7 +34,7 @@
   (pad 2 thru_hole circle (at 0 2) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 0 4) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 0 6) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 -90))

@@ -32,7 +32,7 @@
   (pad 1 smd rect (at 2.9 -2) (size 2.8 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.9 2) (size 2.8 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.9 2) (size 2.8 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

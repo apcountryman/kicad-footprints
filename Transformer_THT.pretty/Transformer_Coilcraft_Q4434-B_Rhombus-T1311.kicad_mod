@@ -88,7 +88,7 @@
   (pad 2 thru_hole circle (at 3.81 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 8.89 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 13.97 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_Coilcraft_Q4434-B_Rhombus-T1311.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Coilcraft_Q4434-B_Rhombus-T1311.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

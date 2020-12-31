@@ -33,7 +33,7 @@
   (pad 8 smd rect (at 3.11 -1.905) (size 1.52 0.76) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.11 -0.635) (size 1.52 0.76) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 3.11 0.635) (size 1.52 0.76) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Transformer_SMD.3dshapes/Pulse_PA2777NL.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_PA2777NL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

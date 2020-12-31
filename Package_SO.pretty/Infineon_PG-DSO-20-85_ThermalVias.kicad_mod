@@ -146,7 +146,7 @@
   (pad 1 thru_hole circle (at 1 -7) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 -7) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -1 -7) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Infineon_PG-DSO-20-85.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-85.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

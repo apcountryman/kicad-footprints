@@ -38,7 +38,7 @@
   (pad "" thru_hole circle (at 10.16 25.4) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 15.24 25.4) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 20.32 25.4) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transformer_THT.3dshapes/Transformer_37x44.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_37x44.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

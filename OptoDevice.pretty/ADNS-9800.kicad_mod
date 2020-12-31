@@ -49,7 +49,7 @@
   (pad 14 thru_hole circle (at 12.6 3.56) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad 15 thru_hole circle (at 12.6 1.78) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at 12.6 0) (size 1.4 1.4) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/ADNS-9800.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ADNS-9800.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

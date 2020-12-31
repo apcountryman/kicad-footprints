@@ -37,7 +37,7 @@
   (pad "" smd rect (at 0.2 -0.3465) (size 0.25 0.25) (layers F.Paste))
   (pad "" smd rect (at -0.2 -0.3465) (size 0.25 0.25) (layers F.Paste))
   (pad "" smd rect (at 0 0) (size 0.25 0.25) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

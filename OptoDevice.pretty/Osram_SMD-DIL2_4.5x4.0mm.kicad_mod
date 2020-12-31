@@ -41,7 +41,7 @@
   (fp_line (start 3.89 2.25) (end -3.89 2.25) (layer F.CrtYd) (width 0.05))
   (pad 2 smd roundrect (at 2.54 0 180) (size 2.2 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
   (pad 1 smd roundrect (at -2.54 0 180) (size 2.2 2) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
-  (model ${KISYS3DMOD}/OptoDevice.3dshapes/Osram_SMD-DIL2_4.5x4.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-DIL2_4.5x4.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

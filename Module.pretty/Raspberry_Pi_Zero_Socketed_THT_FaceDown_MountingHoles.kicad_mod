@@ -143,7 +143,7 @@
     (solder_mask_margin 1.625))
   (pad "" np_thru_hole circle (at -1.27 53.13 90) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask)
     (solder_mask_margin 1.625))
-  (model ${KISYS3DMOD}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

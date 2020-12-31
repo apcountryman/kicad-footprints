@@ -36,7 +36,7 @@
   (fp_arc (start 67.056 -8.509) (end 67.056 -4.659) (angle -180) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 67.056 -8.509) (size 6.49732 6.49732) (drill 3.0988) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -4.953 -31.496) (size 6.49732 6.49732) (drill 3.0988) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Heatsink.3dshapes/Heatsink_62x40mm_2xFixation3mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_62x40mm_2xFixation3mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

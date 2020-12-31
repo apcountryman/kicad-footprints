@@ -54,7 +54,7 @@
   (pad 5 thru_hole circle (at 1.5 8.48) (size 5.21 5.21) (drill 4.2) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 13.94 20.93) (size 5 5) (drill 4) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -10.85 -3.96) (size 5 5) (drill 4.06) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Valve.3dshapes/Valve_EURO.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_EURO.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

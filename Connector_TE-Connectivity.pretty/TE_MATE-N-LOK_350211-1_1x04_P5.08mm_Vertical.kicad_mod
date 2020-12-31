@@ -86,7 +86,7 @@
   (pad 2 thru_hole circle (at 5.08 0) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 10.16 0) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 15.24 0) (size 2.78 2.78) (drill 1.78) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

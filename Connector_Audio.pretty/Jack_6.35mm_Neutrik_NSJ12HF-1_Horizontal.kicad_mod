@@ -45,7 +45,7 @@
   (pad R2 thru_hole circle (at 9.53 1.27) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad RN1 thru_hole circle (at 6.35 12.7) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad RN2 thru_hole circle (at 9.53 13.97) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

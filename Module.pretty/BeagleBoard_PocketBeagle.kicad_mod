@@ -114,7 +114,7 @@
   (pad 56 thru_hole oval (at 27.94 22.86) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 37 thru_hole circle (at 25.4 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 38 thru_hole oval (at 27.94 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

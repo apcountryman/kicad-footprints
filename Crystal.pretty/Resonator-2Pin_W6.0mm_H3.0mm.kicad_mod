@@ -30,7 +30,7 @@
   (fp_arc (start 4 0) (end 4 1.7) (angle -51.9) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Resonator-2Pin_W6.0mm_H3.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W6.0mm_H3.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

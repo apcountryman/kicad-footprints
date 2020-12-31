@@ -33,7 +33,7 @@
   (pad 3 thru_hole circle (at 7.5 17.5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 17.5) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole roundrect (at 0 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Filter.3dshapes/Filter_Schaffner_FN405.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN405.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

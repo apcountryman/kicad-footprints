@@ -52,7 +52,7 @@
          (xy 0.375 -0.375) (xy 0.375 0.375) (xy -0.375 0.375) (xy -0.375 -0.125) (xy -0.125 -0.375)
 ) (width 0))
     ))
-  (model ${KISYS3DMOD}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

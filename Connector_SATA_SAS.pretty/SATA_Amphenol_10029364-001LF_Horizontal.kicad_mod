@@ -86,7 +86,7 @@
   (pad MP thru_hole circle (at 20 -1.14492) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at -20 -1.14492) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Connector_SATA_SAS.3dshapes/SATA_Amphenol_10029364-001LF_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SATA_Amphenol_10029364-001LF_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

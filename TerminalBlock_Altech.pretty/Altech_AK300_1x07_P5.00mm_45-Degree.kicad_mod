@@ -36,7 +36,7 @@
   (fp_text user %R (at 15 0.25) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x07_P5.00mm_45-Degree.wrl
+  (model ${KICAD6_3DMODEL_DIR}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x07_P5.00mm_45-Degree.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

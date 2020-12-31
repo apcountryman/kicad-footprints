@@ -16,7 +16,7 @@
   (fp_arc (start 0.75 0) (end 0 0.7) (angle -93.9) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 1.5 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

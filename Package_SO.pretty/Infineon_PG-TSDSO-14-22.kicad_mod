@@ -44,7 +44,7 @@
   (pad 15 smd rect (at 0 0) (size 2.65 4) (layers F.Cu F.Mask))
   (pad "" smd rect (at 0 -1.075) (size 2.65 1.85) (layers F.Paste))
   (pad "" smd rect (at 0 1.075) (size 2.65 1.85) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

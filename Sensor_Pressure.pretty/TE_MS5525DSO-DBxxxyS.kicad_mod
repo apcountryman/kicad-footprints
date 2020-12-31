@@ -51,7 +51,7 @@
   (pad 12 smd roundrect (at 4.5974 -1.27) (size 2.2098 0.6096) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 13 smd roundrect (at 4.5974 -2.54) (size 2.2098 0.6096) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 14 smd roundrect (at 4.5974 -3.81) (size 2.2098 0.6096) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

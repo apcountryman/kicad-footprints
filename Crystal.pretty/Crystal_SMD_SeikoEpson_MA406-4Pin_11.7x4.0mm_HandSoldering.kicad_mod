@@ -31,7 +31,7 @@
   (pad 2 smd rect (at 4.89 2.275) (size 1.98 2.85) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 4.89 -2.275) (size 1.98 2.85) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -4.89 -2.275) (size 1.98 2.85) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

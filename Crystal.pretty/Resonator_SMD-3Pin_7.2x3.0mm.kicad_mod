@@ -31,7 +31,7 @@
   (pad 1 smd rect (at -2.5 0) (size 1.4 3.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 0) (size 1.4 3.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.5 0) (size 1.4 3.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Resonator_SMD-3Pin_7.2x3.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD-3Pin_7.2x3.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

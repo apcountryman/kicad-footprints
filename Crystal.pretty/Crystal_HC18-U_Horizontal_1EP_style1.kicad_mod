@@ -41,7 +41,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 4.9 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 smd rect (at 2.45 9.25) (size 11 13.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_HC18-U_Horizontal_1EP_style1.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC18-U_Horizontal_1EP_style1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

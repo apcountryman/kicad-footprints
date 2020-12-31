@@ -252,7 +252,7 @@
   (pad 7 thru_hole oval (at 60.0 0) (size 3.3 6.6) (drill 2.2) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 70.0 0) (size 3.3 6.6) (drill 2.2) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 80.0 0) (size 3.3 6.6) (drill 2.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/TerminalBlock_Dinkle.3dshapes/TerminalBlock_Dinkle_DT-55-B01X-09_P10.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

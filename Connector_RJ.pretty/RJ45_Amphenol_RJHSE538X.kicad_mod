@@ -44,7 +44,7 @@
   (pad 10 thru_hole circle (at -1.01 6.6) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 8.13 6.6) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 10.42 6.6) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

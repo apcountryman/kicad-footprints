@@ -42,7 +42,7 @@
   (fp_text user %R (at 0 -2) (layer F.Fab)
     (effects (font (size 0.68 0.68) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YL_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

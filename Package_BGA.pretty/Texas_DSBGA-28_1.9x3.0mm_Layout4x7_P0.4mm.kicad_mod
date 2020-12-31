@@ -53,7 +53,7 @@
   (pad G2 smd circle (at -0.2 1.2) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
   (pad G3 smd circle (at 0.2 1.2) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
   (pad G4 smd circle (at 0.6 1.2) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_BGA.3dshapes/Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

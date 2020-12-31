@@ -84,7 +84,7 @@
          (xy -0.375 -1.525) (xy -1.025 -1.525) (xy -1.025 1.525) (xy -0.375 1.525) (xy -0.375 1.925)
          (xy 0.375 1.925) (xy 0.375 1.525)) (width 0))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_VQFN-RHL-20_ThermalVias.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

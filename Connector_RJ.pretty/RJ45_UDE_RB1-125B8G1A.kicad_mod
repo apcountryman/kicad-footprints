@@ -101,7 +101,7 @@
   (pad "" np_thru_hole circle (at 11.43 8.89) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask))
   (pad R9 thru_hole circle (at 10.16 0) (size 1.9 1.9) (drill 0.9) (layers *.Cu *.Mask))
   (pad R10 thru_hole circle (at 11.43 2.54) (size 1.9 1.9) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

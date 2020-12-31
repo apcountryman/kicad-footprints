@@ -25,7 +25,7 @@
   (pad 1 smd rect (at -3.25 0) (size 1.75 4.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 0) (size 1.75 4.8) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.25 0) (size 1.75 4.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

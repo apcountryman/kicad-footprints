@@ -74,7 +74,7 @@
   (pad 38 thru_hole circle (at 15.24 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 15.24 2.54) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 15.24 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Module.3dshapes/Maple_Mini.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Module.3dshapes/Maple_Mini.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

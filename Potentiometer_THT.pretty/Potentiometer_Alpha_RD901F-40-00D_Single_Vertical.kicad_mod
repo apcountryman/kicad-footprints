@@ -33,7 +33,7 @@
   (pad 3 thru_hole circle (at 0 5 90) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at 7.5 7.3 90) (size 2.72 3.24) (drill oval 1.1 1.8) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at 7.5 -2.3 90) (size 2.72 3.24) (drill oval 1.1 1.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD901F-40-00D_Single_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

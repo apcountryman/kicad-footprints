@@ -27,7 +27,7 @@
   (pad 2 thru_hole circle (at 1.27 1.27) (size 1.24 1.24) (drill 0.84) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 1.27 -1.27) (size 1.24 1.24) (drill 0.84) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -1.27 1.27) (size 1.24 1.24) (drill 0.84) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-1471_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-1471_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

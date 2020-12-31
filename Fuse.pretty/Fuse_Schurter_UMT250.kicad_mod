@@ -29,7 +29,7 @@
   (fp_line (start -5.7 2.13) (end -5.7 -2.13) (layer F.CrtYd) (width 0.05))
   (pad 1 smd roundrect (at -4.25 0) (size 2 3.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
   (pad 2 smd roundrect (at 4.25 0) (size 2 3.75) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
-  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

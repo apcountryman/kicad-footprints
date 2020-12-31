@@ -17,7 +17,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.0mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D2.50mm_Drill1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

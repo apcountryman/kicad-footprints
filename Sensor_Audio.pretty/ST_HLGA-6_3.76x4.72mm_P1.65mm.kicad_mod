@@ -30,7 +30,7 @@
   (pad 4 smd circle (at 1.17 1.65) (size 0.91 0.91) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd circle (at 1.17 0) (size 0.91 0.91) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd oval (at 1.17 -1.65 45) (size 1.192843 0.91) (drill (offset -0.141421 0)) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor_Audio.3dshapes/ST_HLGA-6_3.76x4.72mm_P1.65mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/ST_HLGA-6_3.76x4.72mm_P1.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

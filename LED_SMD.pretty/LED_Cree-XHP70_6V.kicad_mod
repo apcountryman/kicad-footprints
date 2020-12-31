@@ -64,7 +64,7 @@
   (pad "" smd rect (at 0.77 0.77) (size 1.29 1.29) (layers F.Paste))
   (pad "" smd rect (at -0.77 2.31) (size 1.29 1.29) (layers F.Paste))
   (pad "" smd rect (at 0.77 2.31) (size 1.29 1.29) (layers F.Paste))
-  (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl
+  (model ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

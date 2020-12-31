@@ -54,7 +54,7 @@
   (pad "" np_thru_hole circle (at -51.84 4 180) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 69.16 57 180) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -51.84 57 180) (size 3.5 3.5) (drill 3.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Display.3dshapes/ERM19264.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

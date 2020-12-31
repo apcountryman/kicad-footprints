@@ -55,7 +55,7 @@
   (pad "" smd rect (at -2.84 -0.635) (size 0.73 0.51) (layers F.Paste))
   (pad "" smd rect (at -2.84 0.635) (size 0.73 0.51) (layers F.Paste))
   (pad "" smd rect (at -2.84 1.905) (size 0.73 0.51) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

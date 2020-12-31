@@ -42,7 +42,7 @@
   (fp_line (start 5.97 4.83) (end 5.97 0) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.75) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.88 0) (size 3 3) (drill 1.75) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector.3dshapes/JWT_A3963_1x02_P3.96mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

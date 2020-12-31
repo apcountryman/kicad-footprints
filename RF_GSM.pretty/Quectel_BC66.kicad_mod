@@ -146,7 +146,7 @@
   (pad "" smd roundrect (at 3.3 -9 90) (size 2.9 0.595) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 2.2 -9 90) (size 2.9 0.595) (layers F.Paste) (roundrect_rratio 0.25))
   (pad "" smd roundrect (at 0 -9 90) (size 2.9 0.595) (layers F.Paste) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/RF_GSM.3dshapes/Quectel_BC66.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BC66.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

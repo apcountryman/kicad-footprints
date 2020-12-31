@@ -64,7 +64,7 @@
          (xy -0.866 0.552) (xy -0.844 0.511) (xy -0.83 0.464) (xy -0.825 0.415) (xy -0.825 0.665)
 ) (width 0.001))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

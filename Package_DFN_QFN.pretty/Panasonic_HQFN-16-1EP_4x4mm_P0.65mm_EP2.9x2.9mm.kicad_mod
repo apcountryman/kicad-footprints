@@ -65,7 +65,7 @@
   (pad "" smd rect (at 0.325 -1.95) (size 0.36 0.5) (layers F.Paste))
   (pad "" smd rect (at -0.325 -1.95) (size 0.36 0.5) (layers F.Paste))
   (pad "" smd rect (at -0.975 -1.95) (size 0.36 0.5) (layers F.Paste))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

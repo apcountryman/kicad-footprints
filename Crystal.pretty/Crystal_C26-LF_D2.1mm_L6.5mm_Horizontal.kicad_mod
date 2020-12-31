@@ -32,7 +32,7 @@
   (fp_line (start 2.8 -0.8) (end -0.9 -0.8) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 1.9 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

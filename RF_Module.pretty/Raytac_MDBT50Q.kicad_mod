@@ -131,7 +131,7 @@
   (pad 60 smd rect (at 1.2 0.55 90) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 61 smd rect (at 2 0.55 90) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 34 smd rect (at 4.65 6.15) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Module.3dshapes/Raytac_MDBT50Q.wrl
+  (model ${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Raytac_MDBT50Q.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

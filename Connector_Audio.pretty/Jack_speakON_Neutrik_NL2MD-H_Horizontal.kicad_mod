@@ -44,7 +44,7 @@
   (fp_line (start 24.71 11.08) (end 29.21 11.08) (layer F.Fab) (width 0.1))
   (pad 1+ thru_hole circle (at 0 0) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1- thru_hole circle (at 4.44 9.53) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL2MD-H_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL2MD-H_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

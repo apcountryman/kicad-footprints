@@ -436,7 +436,7 @@
   (pad K40 smd circle (at 5.715 24.765 90) (size 0.64 0.64) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 0 -27.19 90) (size 1.27 1.27) (drill 1.27) (layers *.Cu *.Paste *.Mask))
   (pad "" np_thru_hole circle (at 3.05 27.19 90) (size 1.27 1.27) (drill 1.27) (layers *.Cu *.Paste *.Mask))
-  (model ${KISYS3DMOD}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

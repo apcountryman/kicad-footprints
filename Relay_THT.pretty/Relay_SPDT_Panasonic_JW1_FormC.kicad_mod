@@ -38,7 +38,7 @@
   (pad 4 thru_hole oval (at 23.5 0 90) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 20 -7.6 90) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 0 -7.6 90) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Relay_THT.3dshapes/Relay_SPDT_Panasonic_JW1_FormC.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Panasonic_JW1_FormC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

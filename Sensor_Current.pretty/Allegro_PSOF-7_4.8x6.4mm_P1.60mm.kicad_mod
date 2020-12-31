@@ -39,7 +39,7 @@
   (pad 7 smd rect (at 0.05 -2.8) (size 0.6 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.4 1.5) (size 1.7 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.4 -1.5) (size 1.7 1.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Sensor_Current.3dshapes/Allegro_PSOF-7_4.8x6.4mm_P1.60mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_PSOF-7_4.8x6.4mm_P1.60mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

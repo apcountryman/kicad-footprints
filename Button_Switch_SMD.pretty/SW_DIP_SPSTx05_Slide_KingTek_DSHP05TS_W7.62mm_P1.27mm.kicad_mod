@@ -101,7 +101,7 @@
   (fp_text user on (at -0.055 -3.4575) (layer F.Fab)
     (effects (font (size 0.8 0.8) (thickness 0.12)))
   )
-  (model ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TS_W7.62mm_P1.27mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx05_Slide_KingTek_DSHP05TS_W7.62mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

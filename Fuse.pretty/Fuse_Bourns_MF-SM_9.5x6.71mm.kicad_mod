@@ -27,7 +27,7 @@
   (fp_line (start -4.86 3.465) (end 4.86 3.465) (layer F.SilkS) (width 0.12))
   (pad 2 smd rect (at 4.2 0) (size 2.3 4.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -4.2 0) (size 2.3 4.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

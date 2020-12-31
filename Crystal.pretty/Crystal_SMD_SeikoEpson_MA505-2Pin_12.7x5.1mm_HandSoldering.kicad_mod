@@ -25,7 +25,7 @@
   (fp_line (start 11 -3.1) (end -11 -3.1) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -7.0875 0) (size 7.175 5.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 7.0875 0) (size 7.175 5.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

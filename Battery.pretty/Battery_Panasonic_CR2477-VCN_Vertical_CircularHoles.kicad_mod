@@ -29,7 +29,7 @@
   (fp_line (start -10 3) (end -10 -11) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole rect (at 0 0) (size 3.7 3.7) (drill 3.12) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 9.15 -8.3) (size 2.7 2.7) (drill 2.12) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Battery.3dshapes/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

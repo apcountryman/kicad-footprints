@@ -32,7 +32,7 @@
   (pad 7 thru_hole oval (at 7.62 2.54) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 0 7.62) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 7.62 0) (size 2.4 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/PowerIntegrations_PDIP-8B.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_PDIP-8B.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

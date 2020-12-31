@@ -32,7 +32,7 @@
   (fp_line (start 32.9 6.42) (end -2.44 6.42) (layer F.SilkS) (width 0.12))
   (pad 2 thru_hole circle (at 10.16 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.35) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0457_Horizontal_Closed.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

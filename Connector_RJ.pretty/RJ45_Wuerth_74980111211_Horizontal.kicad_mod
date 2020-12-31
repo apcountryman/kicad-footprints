@@ -52,7 +52,7 @@
   (pad SH smd rect (at 7.42 -8.92) (size 4.9 3) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 7.42 -6.35) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 7.42 6.35) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_RJ.3dshapes/RJ45_Wuerth_74980111211_Horizontal.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Wuerth_74980111211_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

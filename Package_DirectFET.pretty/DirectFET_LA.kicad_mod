@@ -65,7 +65,7 @@
   (pad 3 smd rect (at 0 -1.7) (size 1.3 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 1.7) (size 1.3 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -2.2 1.7) (size 1.3 1.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Package_DirectFET.3dshapes/DirectFET_LA.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_LA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

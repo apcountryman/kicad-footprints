@@ -47,7 +47,7 @@
          (xy -0.5275 2.755) (xy 0.5275 1.7) (xy 0.5275 -1.7) (xy -0.5275 -2.755) (xy -1.4675 -2.755)
 ) (width 0))
     ))
-  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
