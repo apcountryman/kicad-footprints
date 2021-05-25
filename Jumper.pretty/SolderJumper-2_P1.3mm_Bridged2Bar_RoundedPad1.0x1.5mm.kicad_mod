@@ -1,6 +1,6 @@
 (module SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm (layer F.Cu) (tedit 5C74525F)
   (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips")
-  (tags "solder jumper open")
+  (tags "net tie solder jumper bridged")
   (attr virtual)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
