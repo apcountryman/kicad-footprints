@@ -6,8 +6,8 @@ This repository contains the official KiCad footprint libraries.
 
 Each footprint library is stored as a directory with the `.pretty` suffix. The footprint files are `.kicad_mod` files within.
 
-Contribution guidelines can be found at http://kicad-pcb.org/libraries/contribute
-The library convention can be found at http://kicad-pcb.org/libraries/klc/
+Contribution guidelines can be found at http://kicad.org/libraries/contribute
+The library convention can be found at http://kicad.org/libraries/klc/
 
 Other KiCad library repositories are located:
 
