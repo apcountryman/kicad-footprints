@@ -8,7 +8,7 @@ On Oct 1, 2020 this repository, including issues and pull requests, will be arch
 
 ---
 
-All contributions to the kicad library must follow the [KiCad library convention](http://kicad-pcb.org/libraries/klc/)
+All contributions to the kicad library must follow the [KiCad library convention](http://kicad.org/libraries/klc/)
 
 Thanks for creating a pull request to contribute to the KiCad libraries! To speed up integration of your PR, please check the following items:
 
