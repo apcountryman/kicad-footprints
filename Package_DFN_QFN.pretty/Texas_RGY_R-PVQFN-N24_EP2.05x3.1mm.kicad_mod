@@ -66,7 +66,7 @@
     (primitives
       (gr_circle (center 0.3425 0) (end 0.4825 0) (width 0))
     ))
-  (pad 7 smd custom (at -1.795 0.28) (size 0.71 0.28) (layers F.Cu F.Paste F.Mask)
+  (pad 7 smd custom (at -1.795 0.25) (size 0.71 0.28) (layers F.Cu F.Paste F.Mask)
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
