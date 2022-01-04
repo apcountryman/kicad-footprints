@@ -1,4 +1,5 @@
-(footprint "Filter_SAW-6_3.8x3.8mm" (version 20210424) (generator pcbnew) (layer "F.Cu")
+(footprint "Filter_SAW-6_3.8x3.8mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60A4F530)
   (descr "6-pin 3.8 x 3.8mm SAW filter package, https://www.golledge.com/media/3785/mp08167.pdf")
   (tags "SAW filter 6-pin")

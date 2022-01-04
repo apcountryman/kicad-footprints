@@ -1,4 +1,5 @@
-(footprint "BNC_TEConnectivity_1478035_Horizontal" (version 20210424) (generator pcbnew) (layer "F.Cu")
+(footprint "BNC_TEConnectivity_1478035_Horizontal" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60AFC043)
   (descr "BNC RF Interface, PCB mount 4 pin, Right Angle, Bayonet, 50Ohm, 4GHz, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0")
   (tags "BNC RF interface bayonet 50ohm")

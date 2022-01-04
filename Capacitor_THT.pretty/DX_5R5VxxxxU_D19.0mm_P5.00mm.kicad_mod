@@ -1,4 +1,5 @@
-(footprint "DX_5R5VxxxxU_D19.0mm_P5.00mm" (version 20210722) (generator pcbnew) (layer "F.Cu")
+(footprint "DX_5R5VxxxxU_D19.0mm_P5.00mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 614EED02)
   (descr "CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf")
   (tags "CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor")

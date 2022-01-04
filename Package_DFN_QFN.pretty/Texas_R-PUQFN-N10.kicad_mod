@@ -1,4 +1,5 @@
-(footprint "Texas_R-PUQFN-N10" (version 20210824) (generator pcbnew) (layer "F.Cu")
+(footprint "Texas_R-PUQFN-N10" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 614D0C0B)
   (descr "http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF186&fileType=pdf")
   (tags "Texas_R-PUQFN-N10")

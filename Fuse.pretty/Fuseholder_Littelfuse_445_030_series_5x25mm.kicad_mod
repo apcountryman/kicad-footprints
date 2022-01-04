@@ -1,4 +1,5 @@
-(footprint "Fuseholder_Littelfuse_445_030_series_5x25mm" (version 20210722) (generator pcbnew) (layer "F.Cu")
+(footprint "Fuseholder_Littelfuse_445_030_series_5x25mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 611014F9)
   (descr "Littelfuse clips, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf")
   (tags "Fuseholder clips")

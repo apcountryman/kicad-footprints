@@ -1,4 +1,5 @@
-(footprint "Diode_Bridge_OnSemi_SDIP-4L" (version 20210824) (generator pcbnew) (layer "F.Cu")
+(footprint "Diode_Bridge_OnSemi_SDIP-4L" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 6140FDD6)
   (descr "SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf")
   (tags "OnSemi Diode Bridge SDIP-4L")

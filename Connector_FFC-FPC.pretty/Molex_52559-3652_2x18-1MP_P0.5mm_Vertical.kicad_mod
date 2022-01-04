@@ -1,4 +1,5 @@
-(footprint "Molex_52559-3652_2x18-1MP_P0.5mm_Vertical" (version 20210424) (generator pcbnew) (layer "F.Cu")
+(footprint "Molex_52559-3652_2x18-1MP_P0.5mm_Vertical" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60B4CB6C)
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)")
   (tags "connector Molex top entry")

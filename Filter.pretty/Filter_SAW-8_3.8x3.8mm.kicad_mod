@@ -1,4 +1,5 @@
-(footprint "Filter_SAW-8_3.8x3.8mm" (version 20210424) (generator pcbnew) (layer "F.Cu")
+(footprint "Filter_SAW-8_3.8x3.8mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 60A458B5)
   (descr "8-pin 3.8x3.8mm SAW filter, https://www.golledge.com/media/1831/ma05497.pdf")
   (tags "SAW filter 8-pin")

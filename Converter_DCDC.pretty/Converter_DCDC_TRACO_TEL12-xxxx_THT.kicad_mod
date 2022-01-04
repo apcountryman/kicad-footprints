@@ -1,4 +1,5 @@
-(footprint "Converter_DCDC_TRACO_TEL12-xxxx_THT" (version 20210824) (generator pcbnew) (layer "F.Cu")
+(footprint "Converter_DCDC_TRACO_TEL12-xxxx_THT" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 613D2608)
   (descr "Traco 12W, THT (https://www.tracopower.com/sites/default/files/products/datasheets/tel12_datasheet.pdf)")
   (tags "traco dcdc tht 12w")
