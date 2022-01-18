@@ -12,7 +12,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b8154477-7eaa-4233-a49f-57db60873053)
   )
-  (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f5e8d5ec-4d9e-4a02-b361-8474cc606e74)
   )
