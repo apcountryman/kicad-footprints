@@ -1,4 +1,4 @@
-(footprint "BM78SPPS5XC2" (version 20211014) (generator pcbnew)
+(footprint "BM78SPPS5xC2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61D8B042)
   (descr "Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)")
