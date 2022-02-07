@@ -1,6 +1,6 @@
 (footprint "Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D4D423)
+  (tedit 62016E1C)
   (descr "Tag-Connect programming header with bottom courtyard for TC2050-NL Clip board ; https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-CLIP_Datasheet_25.pdf")
   (tags "tag connect programming header pogo pins")
   (attr exclude_from_pos_files exclude_from_bom)
@@ -103,10 +103,10 @@
   (pad "8" connect circle (at 0 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 41c193f4-2305-44a8-acd4-54bd874a030f))
   (pad "9" connect circle (at -1.27 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 653735c5-9650-4d1c-8fbf-76f3facd394d))
   (pad "10" connect circle (at -2.54 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 13b6d3be-7559-4809-acf9-0c8bc6eb0995))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp fc386388-fbea-487a-ad2e-d2eb7e155d60) (hatch full 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 915afd34-85f2-4f65-b2f6-5c607c325148) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed ) (copperpour not_allowed) (footprints not_allowed))
+    (keepout (tracks allowed) (vias not_allowed) (pads allowed ) (copperpour not_allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts

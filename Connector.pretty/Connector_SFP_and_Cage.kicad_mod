@@ -1,6 +1,6 @@
 (footprint "Connector_SFP_and_Cage" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61FEE2B2)
+  (tedit 620171EE)
   (descr "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English")
   (tags "SFP+ SFP")
   (attr smd)
@@ -108,10 +108,10 @@
   (pad "CAGE" thru_hole circle (at -4.6 7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask) (tstamp e53430c5-1bd7-4ebf-9102-329795e29374))
   (pad "CAGE" thru_hole rect (at -27.1 -7.125) (size 2 2) (drill 1.05) (layers *.Cu *.Mask) (tstamp ec252533-fcf6-4777-97d7-b68e891e3b47))
   (pad "CAGE" thru_hole circle (at -9.6 -7.125) (size 1.5 1.5) (drill 0.95) (layers *.Cu *.Mask) (tstamp f6c7b838-1619-42fa-8803-552845ff1017))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 6cad0a2a-4cb0-4ee3-a83c-cd896f71dc2b) (hatch full 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 7ecca34d-ce63-4ed5-9ab4-60b25efa3831) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour allowed) (footprints not_allowed))
+    (keepout (tracks not_allowed) (vias allowed) (pads allowed ) (copperpour allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts

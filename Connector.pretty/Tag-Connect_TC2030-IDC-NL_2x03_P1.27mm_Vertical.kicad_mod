@@ -1,6 +1,6 @@
 (footprint "Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D4D301)
+  (tedit 62016E06)
   (descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf")
   (tags "tag connect programming header pogo pins")
   (attr exclude_from_pos_files exclude_from_bom)
@@ -35,10 +35,10 @@
   (pad "4" connect circle (at 0 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 659e371b-5f69-4ef0-9f3c-600bba994579))
   (pad "5" connect circle (at 1.27 0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 356bdc74-443f-47c5-8ce8-a3ed2c9255ee))
   (pad "6" connect circle (at 1.27 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp c69e1cc9-e21f-419e-9c91-24726f9c6382))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp e07d32e9-6abc-4b88-ba3a-2156fcbbcbb5) (hatch full 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 55b6b040-a746-4424-a5b4-1f45a1d15120) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed ) (copperpour not_allowed) (footprints not_allowed))
+    (keepout (tracks allowed) (vias not_allowed) (pads allowed ) (copperpour not_allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
