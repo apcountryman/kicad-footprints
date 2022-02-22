@@ -1,11 +1,11 @@
-(module Halo_N6_SO-16_7.11x14.73mm (layer F.Cu) (tedit 62135056)
+(module Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm (layer F.Cu) (tedit 6214AA54)
   (descr "Halo N6 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "Halo SO Transformer_SMD")
   (attr smd)
   (fp_text reference REF** (at 0 -8.32) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Halo_N6_SO-16_7.11x14.73mm (at 0 8.32) (layer F.Fab)
+  (fp_text value Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm (at 0 8.32) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 7.475) (end 3.665 7.475) (layer F.SilkS) (width 0.12))
@@ -45,7 +45,7 @@
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Halo_N6_SO-16_7.11x14.73mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
