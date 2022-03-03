@@ -40,9 +40,9 @@
   (fp_line (start -3 -3.15) (end 3 -3.15) (layer "F.Fab") (width 0.1) (tstamp e6720a97-74e5-4145-a0bb-ee21d9ae7115))
   (fp_circle (center 0 0) (end 1.5 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp fc6fae41-754d-44bb-96a2-b30d13fc548f))
   (pad "1" smd rect (at -4 -2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0eb4f6c8-499b-43f7-8b7f-6d8ea84011d1))
+  (pad "1" smd rect (at 4 -2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 811c8627-dcde-400e-81de-fb05ad268a81))
   (pad "2" smd rect (at -4 2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 121b5677-38b9-417a-a0fb-8d6851abf89d))
-  (pad "3" smd rect (at 4 -2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 811c8627-dcde-400e-81de-fb05ad268a81))
-  (pad "4" smd rect (at 4 2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa7f7607-1064-42be-8a9f-8357c4318a96))
+  (pad "2" smd rect (at 4 2.25 180) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa7f7607-1064-42be-8a9f-8357c4318a96))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-105xP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
