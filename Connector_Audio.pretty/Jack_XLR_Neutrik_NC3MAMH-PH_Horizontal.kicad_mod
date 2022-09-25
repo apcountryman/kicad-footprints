@@ -1,7 +1,7 @@
 (footprint "Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5BF5F9E8)
-  (descr "A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph")
+  (descr "A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph")
   (tags "neutrik xlr a")
   (attr through_hole)
   (fp_text reference "REF**" (at 3.81 -3) (layer "F.SilkS")
