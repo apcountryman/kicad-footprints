@@ -1,10 +1,16 @@
 image: python:latest
 
+stages:
+  - test
+  - screenshot
+  - convert
+
 before_script:
   - python -V
   - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
 
 footprints:
+  stage: test
   only:
     refs:
       - merge_requests
@@ -19,6 +25,7 @@ footprints:
 
 nightly-convert:
   image: kicad/kicad:nightly
+  stage: convert
   only:
     - schedules
   before_script:
@@ -35,3 +42,25 @@ nightly-convert:
     - git config user.email "cipipeline@noreply.kicad.org"
     - git add -A && git commit -m "Update to master ${CI_COMMIT_SHA:0:12}"
     - git push origin HEAD:$LIB_REMOTE_BRANCH
+
+screenshot:
+  image: kicad/kicad:nightly
+  stage: screenshot
+  only:
+    refs:
+      - merge_requests
+    changes:
+      - "**/*.kicad_mod"
+  before_script:
+    - export DEBIAN_FRONTEND=noninteractive
+    - sudo ln -sf $(which kicad-cli) /usr/bin/kicad-cli-nightly
+    - sudo apt update -qq
+    - sudo apt install curl inkscape python3 git -qqy --no-install-recommends
+    - mkdir -p $HOME/.config/kicad/6.99/colors
+    - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
+  script:
+    - $CI_BUILDS_DIR/kicad-library-utils/klc-check/gitlabci/screenshot_footprints.sh
+  artifacts:
+    expose_as: 'Screenshots'
+    paths:
+      - screenshots/
