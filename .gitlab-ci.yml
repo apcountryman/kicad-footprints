@@ -1,5 +1,5 @@
 image: python:latest
-  
+
 before_script:
   - python -V
   - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
@@ -16,3 +16,22 @@ footprints:
   artifacts:
     reports:
       metrics: metrics.txt
+
+nightly-convert:
+  image: kicad/kicad:nightly
+  only:
+    - schedules
+  before_script:
+    - sudo apt update -q && sudo apt install -qqy git
+    - git config --global "http.${CI_SERVER_URL}.sslCAInfo" "$CI_SERVER_TLS_CA_FILE"
+    - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
+  script:
+    - export LIB_NAME_MASK="*.pretty" LIB_TYPE=fp LIB_DEST="$CI_BUILDS_DIR/libraries" LIB_REMOTE_BRANCH=nightly-rolling
+    - git clone --branch $LIB_REMOTE_BRANCH --depth 1 "https://token:$GITLAB_ACCESS_TOKEN@gitlab.com/kicad/libraries/kicad-footprints.git" $CI_BUILDS_DIR/libraries
+    - mkdir -p $HOME/.config/kicad/6.99/colors
+    - $CI_BUILDS_DIR/kicad-library-utils/scripts/migrate_libraries.sh
+    - cd $CI_BUILDS_DIR/libraries/
+    - git config user.name "CI Pipeline"
+    - git config user.email "cipipeline@noreply.kicad.org"
+    - git add -A && git commit -m "Update to master ${CI_COMMIT_SHA:0:12}"
+    - git push origin HEAD:$LIB_REMOTE_BRANCH
