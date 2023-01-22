@@ -58,8 +58,8 @@ screenshot:
     - sudo ln -sf $(which kicad-cli) /usr/bin/kicad-cli-nightly
     - sudo apt update -qq
     - sudo apt install curl inkscape python3 git -qqy --no-install-recommends
-    - mkdir -p $HOME/.config/kicad/6.99/colors
-    - git clone --depth 1 --branch experiment-html-diff https://gitlab.com/neinseg/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
+    - mkdir -p $HOME/.config/kicad/7.0/colors
+    - git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils $CI_BUILDS_DIR/kicad-library-utils
     - git config --global --add safe.directory $(realpath .)
   script:
     - $CI_BUILDS_DIR/kicad-library-utils/tools/gitlabci/screenshot_footprints.sh
