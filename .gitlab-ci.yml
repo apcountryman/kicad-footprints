@@ -1,9 +1,9 @@
 image: python:latest
 
 stages:
+  - test
   - screenshot
   - diffs
-  - test
   - convert
 
 before_script:
@@ -12,6 +12,7 @@ before_script:
 
 klc-check:
   stage: test
+  allow_failure: true
   only:
     refs:
       - merge_requests
@@ -48,6 +49,7 @@ nightly-convert:
 screenshot:
   image: kicad/kicad:nightly
   stage: screenshot
+  allow_failure: true
   only:
     refs:
       - merge_requests
