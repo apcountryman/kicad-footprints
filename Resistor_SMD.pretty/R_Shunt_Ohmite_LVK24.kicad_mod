@@ -31,8 +31,8 @@
   (fp_line (start -1.6 3.2) (end -1.6 -3.2) (layer "F.Fab") (width 0.1) (tstamp d1fa9ec4-6de1-4169-a2c9-6b76dc18147a))
   (pad "1" smd rect (at -1.25 -2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 766d2828-9a40-4ae9-9f47-4ff237155fc6))
   (pad "2" smd rect (at 1.25 -2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8ab704f-ffb1-494c-a65f-ce44194b0c25))
-  (pad "3" smd rect (at -1.25 2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 356e7f02-ccfb-402d-85f6-3e089847c2a5))
-  (pad "4" smd rect (at 1.25 2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5110f476-5556-4f3a-958f-30d4d012ceb9))
+  (pad "4" smd rect (at -1.25 2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 356e7f02-ccfb-402d-85f6-3e089847c2a5))
+  (pad "3" smd rect (at 1.25 2.625) (size 1.9 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5110f476-5556-4f3a-958f-30d4d012ceb9))
   (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK24.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
