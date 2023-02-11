@@ -1,5 +1,5 @@
-(module L_Sunlord_SWRB1207S (layer F.Cu) (tedit 63ACCD63)
-  (descr "Inductor, Sunlord, SWRB1207S, 12.5x12.5x8.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=")
+(module L_Sunlord_SWRB1207S (layer F.Cu) (tedit 63E7CCCC)
+  (descr "Inductor, Sunlord, SWRB1207S, 12.5x12.5x8.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=en")
   (tags "Inductor swrb")
   (attr smd)
   (fp_text reference REF** (at 0 -7.25) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 0.966667 0.966667) (thickness 0.145)))
   )
-  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWRB1207S.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWRB1207S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

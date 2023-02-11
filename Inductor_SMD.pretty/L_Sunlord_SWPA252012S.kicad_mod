@@ -1,4 +1,4 @@
-(module L_Sunlord_SWPA252012S (layer F.Cu) (tedit 63ACCD63)
+(module L_Sunlord_SWPA252012S (layer F.Cu) (tedit 63E7CCCC)
   (descr "Inductor, Sunlord, SWPA252012S, 2.5x2.0x1.2mm, https://www.sunlordinc.com/UploadFiles/PDF_Cat/20120704094224784.pdf")
   (tags "Inductor swpa")
   (attr smd)
@@ -23,7 +23,7 @@
   (fp_text user ${REFERENCE} (at 0 0 90) (layer F.Fab)
     (effects (font (size 0.5 0.5) (thickness 0.075)))
   )
-  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA252012S.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sunlord_SWPA252012S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

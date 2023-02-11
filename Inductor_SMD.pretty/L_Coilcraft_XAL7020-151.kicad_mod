@@ -1,4 +1,4 @@
-(module L_Coilcraft_XAL7020-151 (layer F.Cu) (tedit 63B4E095)
+(module L_Coilcraft_XAL7020-151 (layer F.Cu) (tedit 63E7CCCC)
   (descr "Inductor, Coilcraft, XAL7020-151, 8.0x8.0x2.05mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf")
   (tags "Inductor xal")
   (attr smd)
@@ -27,7 +27,7 @@
   (fp_text user ${REFERENCE} (at 0 0) (layer F.Fab)
     (effects (font (size 0.593333 0.593333) (thickness 0.089)))
   )
-  (model ${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL7020-151.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL7020-151.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
